@@ -1,4 +1,4 @@
-country;first_day;last_day;deaths;source;notes
+country;first_day;last_day;filter;deaths;source;notes
 NL;1995-01-02;1995-01-08;;2719;https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70895ned/table;Previous week straddled two years and was skipped to avoid data inconsistencies (see NL/export-weekly-deaths.py for explanation)
 NL;1995-01-09;1995-01-15;;2823;;
 NL;1995-01-16;1995-01-22;;2609;;
