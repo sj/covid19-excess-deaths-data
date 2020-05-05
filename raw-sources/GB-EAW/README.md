@@ -1,0 +1,2 @@
+- Source: Office for National Statistics, https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales
+- License: Open Government Licence
