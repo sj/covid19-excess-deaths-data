@@ -1,0 +1,3 @@
+[submodule "covid_stat"]
+	path = covid_stat
+	url = git@github.com:wkoot/covid_stat.git
